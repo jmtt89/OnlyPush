@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "898853688695",
+    "project_id": "simplepushlist"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898853688695:android:07d72834bb60107f",
+        "android_client_info": {
+          "package_name": "com.ogangi.dummyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_PnaldK9vbxfoQ0oGAUp2vMEiJs4TnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898853688695:android:5c0f6331d7259604",
+        "android_client_info": {
+          "package_name": "com.ogangi.onlypush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_PnaldK9vbxfoQ0oGAUp2vMEiJs4TnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
